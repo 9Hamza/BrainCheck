@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "708850718029",
+    "firebase_url": "https://unity-firebase-e16fa-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "unity-firebase-e16fa",
+    "storage_bucket": "unity-firebase-e16fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708850718029:android:8ad95829a61ca135ad5304",
+        "android_client_info": {
+          "package_name": "com.Hamboozy.FirebasePractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708850718029-sb0l3jq6nr5i02qdp068r5ji2j0f8k4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx5OGCjvZpgtoC55UwKRZd9Ga1AYp0Zw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708850718029-sb0l3jq6nr5i02qdp068r5ji2j0f8k4i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "708850718029-543s1pqchsn1bdqqq20emtmtifie04rm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Hamboozy.FirebasePractice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
