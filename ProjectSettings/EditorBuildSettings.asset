@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/AdMobTest.unity
+    path: Assets/Scenes/TestingStuff/AdMobTest.unity
     guid: 864d6c5df55f442c1ba023e98807a929
   - enabled: 1
     path: Assets/Scenes/HumanTester.unity
